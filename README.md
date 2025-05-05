@@ -4,18 +4,18 @@ The game made in pygame inspired by Cell Expansion Wars
 
 ## The game
 
-# In the main menu:
+### In the main menu:
 - play - open the submenu to choose to play single or multiplayer
 - editor - open the ditor
 - X - load game saved in the save.xml file
 - L - load game saved in the save.json file
 
-# Game modes:
+### Game modes:
 - Single - singleplayer against the enemy - AI made as calculating minimum of the cost function
 - Local - host the game locally
 - Multi - join the game hosted by someone else - type address of the host like the pattern 192.168.8.1/24:5555 than click Multi button
 
-# In the single game:
+### In the single game:
 - press X to save the current game state in the xml format (save.xml)
 - press S to save the current game state in the json format (save.json)
 
