@@ -1,0 +1,13 @@
+[Textures]
+
+cell1 = cell1.png
+cell2 = cell2.png
+
+cell12 = cell12.png
+cell22 = cell22.png
+can = can.png
+
+[Levels]
+level0 = level0.json
+level1 = level1.json
+level2 = level2.json

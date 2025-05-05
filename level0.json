@@ -1,0 +1,68 @@
+[
+    {
+        "x": 300,
+        "y": 262,
+        "power": 5,
+        "alignment": 0,
+        "subCells": 1,
+        "active": false,
+        "maxPower": 50,
+        "connNumber": 0,
+        "type": 0
+    },
+    {
+        "x": 142,
+        "y": 151,
+        "power": 5,
+        "alignment": 0,
+        "subCells": 1,
+        "active": false,
+        "maxPower": 50,
+        "connNumber": 0,
+        "type": 0
+    },
+    {
+        "x": 164,
+        "y": 430,
+        "power": 5,
+        "alignment": 0,
+        "subCells": 1,
+        "active": false,
+        "maxPower": 50,
+        "connNumber": 0,
+        "type": 0
+    },
+    {
+        "x": 586,
+        "y": 266,
+        "power": 5,
+        "alignment": 1,
+        "subCells": 1,
+        "active": false,
+        "maxPower": 50,
+        "connNumber": 0,
+        "type": 0
+    },
+    {
+        "x": 533,
+        "y": 65,
+        "power": 5,
+        "alignment": 1,
+        "subCells": 1,
+        "active": false,
+        "maxPower": 50,
+        "connNumber": 0,
+        "type": 0
+    },
+    {
+        "x": 513,
+        "y": 431,
+        "power": 5,
+        "alignment": 1,
+        "subCells": 1,
+        "active": false,
+        "maxPower": 50,
+        "connNumber": 0,
+        "type": 0
+    }
+]

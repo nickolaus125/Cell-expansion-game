@@ -1,0 +1,6 @@
+
+*.zip
+
+server.py
+enemy.py
+__pycache__/
